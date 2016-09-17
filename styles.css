@@ -1,0 +1,36 @@
+body, html{
+    height:100%;
+    margin:0;
+    padding:0;
+}
+body{
+    height:100%;
+    background: url(img/back.jpg);
+    background-size: cover;
+    font-family: monospace;
+}
+h2{
+    position: absolute;
+    top:4em;
+    width: 100%;
+    background:white;
+    opacity: 0.85;
+
+}
+.a{
+    position: absolute;
+    bottom: 0px;
+    height:4em;
+    width:100%;
+    color:white;
+    background:rgb(116, 75, 176);
+    text-align: right;
+}
+a{
+    color:white;
+}
+span {
+    position: absolute;
+    top: 10em;
+    padding: 1em;
+}
